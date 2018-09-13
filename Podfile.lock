@@ -1,0 +1,38 @@
+PODS:
+  - Eureka (4.2.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - Realm (3.7.6):
+    - Realm/Headers (= 3.7.6)
+  - Realm/Headers (3.7.6)
+  - RealmSwift (3.7.6):
+    - Realm (= 3.7.6)
+  - SlideMenuControllerSwift (4.0.0)
+
+DEPENDENCIES:
+  - Eureka
+  - R.swift
+  - RealmSwift
+  - SlideMenuControllerSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Eureka
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - SlideMenuControllerSwift
+
+SPEC CHECKSUMS:
+  Eureka: 0748c7bbb2560130e43c7bfa83e99c98854a1f42
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  Realm: 9eaecad54712d6246d08ba34c10f354e4715d7d3
+  RealmSwift: 1fe08b4ebaeeaacf17f9ba0343f7b25c9fc31fa6
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+
+PODFILE CHECKSUM: ca7efe7276d94f63f4bbc89cfe62071ffa0deeed
+
+COCOAPODS: 1.5.2
